@@ -1,0 +1,12 @@
+C:\Users\USER-PC\Desktop\AdmissionProcessiongApp\AdmissionProcessiongApp\bin\Debug\AdmissionProcessiongApp.exe.config
+C:\Users\USER-PC\Desktop\AdmissionProcessiongApp\AdmissionProcessiongApp\bin\Debug\AdmissionProcessiongApp.exe
+C:\Users\USER-PC\Desktop\AdmissionProcessiongApp\AdmissionProcessiongApp\bin\Debug\AdmissionProcessiongApp.pdb
+C:\Users\USER-PC\Desktop\AdmissionProcessiongApp\AdmissionProcessiongApp\obj\Debug\AdmissionProcessiongApp.csprojResolveAssemblyReference.cache
+C:\Users\USER-PC\Desktop\AdmissionProcessiongApp\AdmissionProcessiongApp\obj\Debug\AdmissionProcessiongApp.Properties.Resources.resources
+C:\Users\USER-PC\Desktop\AdmissionProcessiongApp\AdmissionProcessiongApp\obj\Debug\AdmissionProcessiongApp.csproj.GenerateResource.Cache
+C:\Users\USER-PC\Desktop\AdmissionProcessiongApp\AdmissionProcessiongApp\obj\Debug\AdmissionProcessiongApp.exe
+C:\Users\USER-PC\Desktop\AdmissionProcessiongApp\AdmissionProcessiongApp\obj\Debug\AdmissionProcessiongApp.pdb
+C:\Users\USER-PC\Desktop\AdmissionProcessiongApp\AdmissionProcessiongApp\obj\Debug\AdmissionProcessiongApp.AdmissionProcessing.resources
+G:\lab\AdmissionProcessiongApp\AdmissionProcessiongApp\bin\Debug\AdmissionProcessiongApp.exe.config
+G:\lab\AdmissionProcessiongApp\AdmissionProcessiongApp\obj\Debug\AdmissionProcessiongApp.exe
+G:\lab\AdmissionProcessiongApp\AdmissionProcessiongApp\obj\Debug\AdmissionProcessiongApp.pdb
